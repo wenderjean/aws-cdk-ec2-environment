@@ -1,5 +1,5 @@
 
-# GoBioBridge Infrastructure
+# Generic EC2 Infrastructure
 
 This project is set up like a standard Python project.  The initialization process also creates
 a virtualenv within this project, stored under the .venv directory.  To create the virtualenv
